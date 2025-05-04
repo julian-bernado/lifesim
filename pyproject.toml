@@ -1,0 +1,7 @@
+[project]
+name = "lifesim"
+version = "0.1.0"
+description = "simulating life for an llm"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
